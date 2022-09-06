@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Technology         %               Time Using
-Git         ███████████████ %        1y 3m 
-GitFlow     ███████████████ %        1y 3m
-GitHub      █ %                      1m  
-GitLab      ██████████ %             10m          
+Technology         %              Time Using
+Git         ███████████████         1y 3m 
+GitFlow     ███████████████         1y 3m
+GitHub      █░░░░░░░░░░░░░░         1m  
+GitLab      ██████████░░░░░         10m          
 ```
 
 <!--END_SECTION:waka-->
@@ -24,6 +24,14 @@ GitLab      ██████████ %             10m
 <p>
   <img alt="SQLServer" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
+<!--START_SECTION:waka-->
+
+```text
+Technology         %              Time Using
+Git         █████░░░░░░░░░░           5m          
+```
+
+<!--END_SECTION:waka-->
 
 <h3>Programing Languages</h3>
 <p>
