@@ -44,7 +44,7 @@
 
 <h3>Databases</h3>
 <p>
-  <img alt="mysql" src="https://img.shields.io/badge/-mySQL-F8F8FF?style=flat-square&logo=mysql&logoColor=FF4500" />
+  <img alt="mysql" src="https://img.shields.io/badge/-mySQL-FF4500?style=flat-square&logo=mysql&logoColor=blue" />
 </p>
 <!--
 **LeonardoBSantos/LeonardoBSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
