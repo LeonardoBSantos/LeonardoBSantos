@@ -9,6 +9,12 @@
   <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-F8F8FF?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
+<h3>Databases</h3>
+<p>
+  <img alt="SQLServer" src="https://img.shields.io/badge/-SQLServer-8B008B?style=flat-square&logo=sqlserver&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
+</p>
+
 <h3>Programing Languages</h3>
 <p>
   <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-8B008B?style=flat-square&logo=Csharp&logoColor=white" />
