@@ -28,7 +28,7 @@
 
 <h2>Academically</h2>
 <p>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-0000FF?style=flat-square&logo=Csharp&logoColor=white" />
   <img alt="Assembly" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="Phyton" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
