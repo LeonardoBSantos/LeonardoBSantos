@@ -8,6 +8,17 @@
   <img alt="github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
   <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-F8F8FF?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
+<!--START_SECTION:waka-->
+
+```text
+Technology         %               Time Using
+Git         ███████████████ %        1y 3m 
+GitFlow     ███████████████ %        1y 3m
+GitHub      █ %                      1m  
+GitLab      ██████████ %             10m          
+```
+
+<!--END_SECTION:waka-->
 
 <h3>Databases</h3>
 <p>
