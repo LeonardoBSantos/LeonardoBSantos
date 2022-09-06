@@ -38,6 +38,7 @@
   <img alt="C" src="https://img.shields.io/badge/-C-0000FF?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-F8F8FF?style=flat-square&logo=assembly&logoColor=black" />
   <img alt="Phyton" src="https://img.shields.io/badge/-python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-FF8C00?style=flat-square&logo=java&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
   <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-8B008B?style=flat-square&logo=Csharp&logoColor=white" />
 </p>
