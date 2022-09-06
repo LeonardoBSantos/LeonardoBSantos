@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<h3>Code Versioning</h3>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
 <h3>Technologies I code with</h3>
 <p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-8B008B?style=flat-square&logo=Csharp&logoColor=white" />
   <img alt=".NetCore" src="https://img.shields.io/badge/-.NetCore-8B008B?style=flat-square&logo=.Net&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
