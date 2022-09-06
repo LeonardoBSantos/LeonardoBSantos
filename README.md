@@ -35,7 +35,7 @@
 <h3>Infrastructure as code</h3>
 <p>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF4500?style=flat-square&logo=postman&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
 </p>
 
 <h2>Academically</h2>
