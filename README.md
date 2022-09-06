@@ -26,6 +26,15 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF4500?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
+<h2>Academically</h2>
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=black" />
+  <img alt="Assembly" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
+  <img alt="Phyton" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
+  <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-8B008B?style=flat-square&logo=Csharp&logoColor=white" />
+  
+</p>
 
 <!--
 **LeonardoBSantos/LeonardoBSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
