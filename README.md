@@ -11,7 +11,7 @@
 
 <h3>Databases</h3>
 <p>
-  <img alt="SQLServer" src="https://img.shields.io/badge/-MS SQL Server-8B008B?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
+  <img alt="SQLServer" src="https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
 </p>
 
