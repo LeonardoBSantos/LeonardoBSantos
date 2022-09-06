@@ -15,7 +15,7 @@ Technology         %              Time Using
 Git         ███████████████         1y 3m 
 GitFlow     ███████████████         1y 3m
 GitHub      █░░░░░░░░░░░░░░         1m  
-GitLab      ██████████░░░░░         10m          
+GitLab      █████████░░░░░░         9m          
 ```
 
 <!--END_SECTION:waka-->
