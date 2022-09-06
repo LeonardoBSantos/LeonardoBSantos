@@ -4,6 +4,8 @@
 <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="gitflow" src="https://img.shields.io/badge/-Gitflow-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-F05032?style=flat-square&logo=github&logoColor=white" />
+  <img alt="gitflow" src="https://img.shields.io/badge/-Gitflow-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <h3>Programing Languages</h3>
