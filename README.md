@@ -12,8 +12,11 @@
 <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 
 <h3>Programing Tools</h3>
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-<img alt="Postman" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=postman&logoColor=white" />
+<p>
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF4500?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
 
 <!--
 **LeonardoBSantos/LeonardoBSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
