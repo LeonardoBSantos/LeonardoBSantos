@@ -1,15 +1,21 @@
 ### Hi there 👋
 
 <h3>Code Versioning</h3>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 <h3>Programing Languages</h3>
-<img alt="Csharp" src="https://img.shields.io/badge/-Csharp-8B008B?style=flat-square&logo=Csharp&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
+<p>
+  <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-8B008B?style=flat-square&logo=Csharp&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=JavaScript&logoColor=black" />
+</p>
 
 <h3>Programing Frameworks</h3>
-<img alt=".NetCore" src="https://img.shields.io/badge/-.NetCore-8B008B?style=flat-square&logo=.Net&logoColor=white" />
-<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<p>
+  <img alt=".NetCore" src="https://img.shields.io/badge/-.NetCore-8B008B?style=flat-square&logo=.Net&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+</p>
 
 <h3>Programing Tools</h3>
 <p>
