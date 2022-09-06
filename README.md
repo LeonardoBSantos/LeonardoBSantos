@@ -38,6 +38,12 @@
   <img alt="Terraform" src="https://img.shields.io/badge/-terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" />
 </p>
 
+<h3>Cloud</h3>
+<p>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
 <h2>Academically</h2>
 <h3>Programing Languages</h3>
 <p>
