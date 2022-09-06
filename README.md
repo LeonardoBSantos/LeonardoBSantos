@@ -28,6 +28,7 @@
 </p>
 
 <h2>Academically</h2>
+<h3>Programing Languages</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-0000FF?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Assembly" src="https://img.shields.io/badge/-Assembly-F8F8FF?style=flat-square&logo=assembly&logoColor=black" />
