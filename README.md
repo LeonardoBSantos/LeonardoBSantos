@@ -5,7 +5,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="gitflow" src="https://img.shields.io/badge/-Gitflow-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white" />
-  <img alt="gitflow" src="https://img.shields.io/badge/-Gitflow-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="gitlab" src="https://img.shields.io/badge/-Gitlab-F8F8FF?style=flat-square&logo=gitlab&logoColor=white" />
 </p>
 
 <h3>Programing Languages</h3>
