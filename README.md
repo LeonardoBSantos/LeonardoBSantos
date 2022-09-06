@@ -60,7 +60,7 @@ Csharp      ███████████████         1y 3m
 ```text
 Technology         %              Time Using
 .NetCore    ███████████████         1y 3m 
-Angular     ██████████░░░░░         10m     
+Angular     █████████░░░░░░         9m     
 ```
 
 <!--END_SECTION:waka-->
